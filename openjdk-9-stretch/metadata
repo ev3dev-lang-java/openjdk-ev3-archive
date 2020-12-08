@@ -1,0 +1,11 @@
+# ev3dev-lang-java openjdk build metadata
+JAVA_ORIGIN="git"
+JAVA_COMMIT="1e4767889798c2f586f6a63eb7fdd46b8cdaaf72"
+JAVA_VERSION="9.0.4+11-ev3"
+CONFIG_VM="client"
+CONFIG_DEBUG="release"
+CONFIG_VERSION="9"
+CONFIG_PLATFORM="ev3"
+CONFIG_MODULES="java.se,jdk.jdwp.agent,jdk.unsupported,jdk.management.agent,jdk.jartool"
+BUILDER_COMMIT="28de28ba47e2524a7f23cce55b9a001d6e28199d"
+BUILDER_EXTRA="Jenkins eljbuild/stretch-9#1 with Debian stretch on armel"
